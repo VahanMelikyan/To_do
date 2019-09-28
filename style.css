@@ -1,0 +1,9 @@
+button .num{
+    border-style: solid;
+    border:3px;
+    border-color: red;
+}
+
+.main{
+    background-color:red;
+}
